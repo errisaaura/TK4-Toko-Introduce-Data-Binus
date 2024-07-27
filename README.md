@@ -11,14 +11,15 @@ TK 4 mata kuliah Introduction to Data and Information Management dari *kelompok 
 ## How to Run at Local
 
 Clone the Project on htdocs xampp folder
-bash
+```bash
   git clone -b main https://github.com/errisaaura/TK4-Toko-Introduce-Data-Binus 
+```
 
 
 Go to the project directory
-bash
+```bash
   cd Toko
-
+```
 
 Import the db_toko_baru.sql on the http://localhost/phpmyadmin/index.php to get database
 
