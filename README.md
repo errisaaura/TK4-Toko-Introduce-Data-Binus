@@ -43,9 +43,10 @@ Go to http://localhost/Toko/public/home for access web
 
 
   ### Edit
-
+![image](https://github.com/user-attachments/assets/286d7767-935b-4da6-bdd6-6846524ffa8b)
 
   ### Delete
+  ![image](https://github.com/user-attachments/assets/cc188d6c-5af3-4956-9a50-79c029468485)
 
 
   ### Paket Penjualan
